@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>DurantEuclid</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>toolbox.builder.TLAParserBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>toolbox.builder.PCalAlgorithmSearchingBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>toolbox.natures.TLANature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>DurantEuclid.tla</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/DurantEuclid.tla</locationURI>
+		</link>
+		<link>
+			<name>DurantGCD.tla</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/DurantGCD.tla</locationURI>
+		</link>
+		<link>
+			<name>DurantSetEuclid.tla</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/DurantSetEuclid.tla</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
